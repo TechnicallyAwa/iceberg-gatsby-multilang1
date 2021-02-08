@@ -100,7 +100,7 @@ module.exports = {
         name: `Gatsby multiple language`,
         short_name: `Gatsby multiple language`,
         start_url: `/`,
-        background_color: `#16202c`,
+        background_color: `#FFB800`,
         theme_color: `#0B32F4`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`,

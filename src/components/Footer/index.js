@@ -16,7 +16,7 @@ const Footer = () => {
     <S.FooterWrapper>
       <S.FooterContainer>
         <SocialLinks />
-        <p>
+        {/* <p>
           {aboutProject}{' '}
           <a
             href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"
@@ -42,7 +42,7 @@ const Footer = () => {
             Github
           </a>
           .
-        </p>
+        </p> */}
       </S.FooterContainer>
     </S.FooterWrapper>
   );

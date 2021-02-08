@@ -1,9 +1,9 @@
 backend:
     #name: github # Local
     name: git-gateway # Prod
-    repo: diogorodrigues/iceberg-gatsby-multilang
+    repo: TechnicallyAwa/iceberg-gatsby-multilang1
     branch: master
-    site_domain: https://iceberg-gatsby-multilang.netlify.com/
+    site_domain: https://akwaabafest.netlify.com/
     
 
 publish_mode: editorial_workflow

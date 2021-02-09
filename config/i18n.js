@@ -21,7 +21,7 @@ module.exports = {
   //   defaultDescription: `Exemplo de Gatsby site usando Markdown, i18n e CMS`,
   // },
   fr: {
-    path: `ft`,
+    path: `fr`,
     locale: `fr_FR`,
     dateFormat: `DD/MM/YYYY`,
     siteLanguage: `fr`,
